@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MVVMKit",
+        "repositoryURL": "https://github.com/alfogrillo/MVVMKit",
+        "state": {
+          "branch": null,
+          "revision": "1688105aa3a15e117227363e0e790463db308a20",
+          "version": "2.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
